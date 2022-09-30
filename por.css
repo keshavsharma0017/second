@@ -1,0 +1,124 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:rgb(9, 11, 26);
+    font-style: bold;
+}
+.top{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    margin: 0% 19%;
+    color: rgb(9, 11, 26);
+    background-color: #090b1a;
+    padding: 1% 19%;
+    font-size: 140%;
+}
+#logo{
+    color: rgb(106 120 227);
+    margin: 0% 90% 0% 1%;
+    position: relative;
+    bottom: 4px;
+    font-size: 130%;
+}
+#col{
+    color: rgb(255, 255, 255);
+    margin: 0% 17%;
+    text-decoration: none;
+}
+#cen{
+    display: flex;
+    padding-top: 6%;
+    justify-content: center;
+    /* border-radius: 5px solid red; */
+}
+#cen img {
+    border-radius: 50%;
+    width: 18%;
+}
+#blue{
+    color: rgb(106 120 227);
+    display: flex;
+    margin: 1%;
+    font-size: 20px;
+    justify-content: center;
+}
+.et{
+    display: flex;
+    justify-content: center;
+}
+#blue1{
+    color: rgb(106 120 227);
+    display: inline-block;
+    margin: 0% 1%;
+    font-size: 48px;
+    justify-content: center;
+}
+#blue2{
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin: 0%;
+    font-size: 48px;
+    justify-content: center;
+}
+.pa{
+    color: rgb(106 120 227);
+    display: flex;
+    justify-content: center;
+}
+#wh{
+    color: white;
+    margin-left: 0.5%;
+}
+.whi{
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+#ik{
+    margin: 4px 4px 0px 4px;
+}
+#idk{
+    color: rgb(106 120 227);
+    margin-right: 1px;
+    margin-top: 4px;
+}
+#ro{
+    width: 2%;
+    border-radius: 40%;
+}
+.rod{
+    text-align: center;
+    margin: 1% 0% 10% 0%;
+}
+#ro1{
+    width: 3%;
+    border-radius: 40%;
+}
+.container{
+    display: flex;
+    margin-bottom: 15%;
+    color: white;
+}
+#block1{
+    display: inline-block;
+    margin: 30px 5px;
+    padding: 100px 260px 100px 260px;
+}
+#block2{
+    display: inline-block;
+    margin: 50px 50px 50px 50px;
+    padding: 88px;
+}
+#res{
+    width: 170px;
+    padding: 10px 16px 10px 16px;
+}
+#dol{
+    width: 170px;
+    display: flex;
+    justify-content: center;
+}
